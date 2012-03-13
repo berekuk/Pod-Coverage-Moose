@@ -1,0 +1,16 @@
+Source: libpod-coverage-moose-perl
+Section: perl
+Priority: optional
+Build-Depends: debhelper (>= 5.0.0)
+Build-Depends-Indep: perl (>= 5.8.8-12ubuntu0.5)
+Maintainer: Vyacheslav Matjukhin (No comments) <mmcleric@yandex-team.ru>
+Standards-Version: 3.7.2
+Homepage: http://search.cpan.org/dist/Pod-Coverage-Moose/
+
+Package: libpod-coverage-moose-perl
+Architecture: all
+Depends: ${perl:Depends}, ${misc:Depends}, 
+Description: L<Pod::Coverage> extension for L<Moose>
+ L<Pod::Coverage> extension for L<Moose>
+ .
+ This description was automagically extracted from the module by dh-make-perl.

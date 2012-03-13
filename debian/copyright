@@ -1,0 +1,14 @@
+This is the debian package for the Pod-Coverage-Moose module.
+It was created by Vyacheslav Matjukhin (No comments) <mmcleric@yandex-team.ru> using dh-make-perl.
+
+It was downloaded from http://search.cpan.org/dist/Pod-Coverage-Moose/
+
+This copyright info was automatically extracted from the perl module.
+It may not be accurate, so you better check the module sources
+if don't want to get into legal troubles.
+
+The upstream author is: Robert 'phaylon' Sedlacek <rs@474.at>.
+
+
+The Debian packaging is (C) 2012, Vyacheslav Matjukhin (No comments) <mmcleric@yandex-team.ru> and
+is licensed under the same terms as the software itself (see above).
