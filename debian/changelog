@@ -1,3 +1,11 @@
+libpod-coverage-moose-perl (0.04-1) unstable; urgency=low
+
+  * Fix the author field in META.yml
+  * Compatibility with the MooseX::Role::WithOverloading
+
+
+ -- Vyacheslav Matjukhin (No comments) <mmcleric@yandex-team.ru>  Tue, 13 Mar 2012 22:07:47 +0400
+
 libpod-coverage-moose-perl (0.03-1) unstable; urgency=low
 
   * Initial Release.
